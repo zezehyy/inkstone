@@ -56,3 +56,6 @@ APP_NAME = "Inkstone"
 
 [observability]
 enabled = true
+
+[ai]
+binding = "AI"
